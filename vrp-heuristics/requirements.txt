@@ -1,0 +1,4 @@
+numpy
+matplotlib
+scikit-learn
+pulp>=2.7,<3   # PuLP 2.x ships with the free CBC solver built in
